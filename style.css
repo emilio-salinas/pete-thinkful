@@ -6,7 +6,8 @@ body {
   background-color: #eae2b7;
   font-size: 14px;
   line-height: 1.6;
-  margin: 0;
+  margin-left: 400px;
+  margin-right: 400px;
   padding: 0;
   text-align: center;
 }
@@ -146,7 +147,7 @@ main > section {
 }
 
 .contact-section {
-  text-align: center;
+  text-align: left;
 }
 
 .contact-section ol {
